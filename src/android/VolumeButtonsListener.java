@@ -134,9 +134,9 @@ public class VolumeButtonsListener extends CordovaPlugin implements OnKeyListene
    *         (true) or not (false) [Always false to allow that the event
    *         spreading]
    *
-   * @date 10/12/2016
-   * @version 0.0.3
-   * @author ManuelDeveloper(manueldeveloper@gmail.com)
+   * @date 2023/05/17
+   * @version 1.0.0
+   * @author limoeng
    */
   public boolean onKey(View view, int keyCode, KeyEvent keyEvent) {
 
